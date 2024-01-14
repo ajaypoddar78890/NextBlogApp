@@ -10,10 +10,11 @@ module.exports = {
   ],
   theme: {
     screens: {
-      sm: "400px",
-      md: "600px",
-      lg: "1024px",
+      sm: "350px",
+      md: "550px",
+      lg: "930px",
       xl: "1280px",
+      xxl: "1400px",
       // Add your custom breakpoints
       // "realme-x7-max": "400px", // Adjust as needed
     },

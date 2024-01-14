@@ -1,9 +1,5 @@
-export default function Home() {
-  return (
-    <main>
+import Homepage from "./homepage";
 
-          
-      <h1>hlw form next </h1>
-    </main>
-  );
+export default function Home() {
+  return <main>{<Homepage />}</main>;
 }
